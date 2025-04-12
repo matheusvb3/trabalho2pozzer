@@ -1,0 +1,4 @@
+__bin/Release/canvas2d.exe
+__obj/Release/src/Relogio.o
+__obj/Release/src/main.o
+__obj/Release/src/gl_canvas2d.o
